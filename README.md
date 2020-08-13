@@ -1,9 +1,6 @@
-### Hi there 👋
+Hi, I'm David Morales, a newbie  in software development. 
+Thee is the default template that GitHub provides: 
 
-<!--
-**dmoralesl/dmoralesl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Process Specialist at ODEC (Spain)
 - 🌱 I’m currently learning Python in deeper way.
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dmorales474@gmail.com
 - 😄 Pronouns: David, Mori
 - ⚡ Fun fact: I'm doing this w/o getting any public repository. 
--->
