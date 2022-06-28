@@ -23,10 +23,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working at ODEC (Spain) Calculation and Software Development company.
-- 🌱 I’m currently improving my design skills to create more attractive websites. Learning how to create Design Systems with Figma at this moment. 
-- 🤔 My interest lies in fullstack web development.
-- 💬 Ask me about anything, I love to answer!
+- 👨🏽‍💻 I’m currently working at Linking Realities (Barcelona, Spain).
 - 📫 Email me at [dmorales474@gmail.com](mailto:dmorales474@gmail.com).
 
 
