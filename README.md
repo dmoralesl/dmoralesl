@@ -23,7 +23,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working at Linking Realities (Barcelona, Spain).
+- 👨🏽‍💻 I’m currently working at Doofinder.
 - 📫 Email me at [dmorales474@gmail.com](mailto:dmorales474@gmail.com).
 
 
